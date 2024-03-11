@@ -81,7 +81,7 @@ pycodestyle==2.10.0
 pycparser==2.21
 Pygments==2.15.1
 pykrx==1.0.44
-pyparsing==3.0.9
+pyparsing==3.1.2
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3
